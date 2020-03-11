@@ -1,2 +1,5 @@
 # VLSIBitsliceDividerDatapath
-8-Bit divider datapath design using bitslice VLSI technique. Custom cell library, bitslice architecture and control ASM design.
+Custom implementation of an 8-bit divider datapath architecture using bitslice technique and a synthesizable SystemVerilog control unit.
+Custom-designed Cell Library is used for synthesis.
+
+For full documentation, please see the project PDF Doc.
