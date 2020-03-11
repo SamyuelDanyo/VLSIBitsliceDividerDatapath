@@ -1,0 +1,238 @@
+magic
+tech c35b4
+timestamp 1546809872
+<< metal1 >>
+rect 0 822 3446 832
+rect 4753 822 6564 832
+rect 0 795 1428 805
+rect 1480 795 1571 813
+rect 2038 795 2102 813
+rect 3325 795 3418 813
+rect 3493 795 3558 813
+rect 4109 795 4203 813
+rect 4921 795 4986 813
+rect 5565 795 5658 813
+rect 6209 800 6564 810
+rect 1421 13 2019 24
+rect 2373 13 3027 24
+rect 3130 13 4091 31
+rect 4894 6 5546 24
+<< m2contact >>
+rect 3446 814 3464 832
+rect 4735 814 4753 832
+rect 1428 795 1446 813
+rect 1462 795 1480 813
+rect 1571 795 1589 813
+rect 2019 795 2038 813
+rect 2102 795 2121 813
+rect 3307 795 3325 813
+rect 3418 795 3436 813
+rect 3475 795 3493 813
+rect 3558 795 3576 813
+rect 4091 795 4109 813
+rect 4203 795 4221 813
+rect 4903 795 4921 813
+rect 4986 795 5004 813
+rect 5547 795 5565 813
+rect 5658 795 5676 813
+rect 6191 795 6209 813
+rect 1403 6 1421 24
+rect 2019 13 2037 31
+rect 2355 6 2373 24
+rect 3027 13 3045 31
+rect 3112 13 3130 31
+rect 4091 13 4109 31
+rect 4876 6 4894 24
+rect 5546 6 5564 24
+<< metal2 >>
+rect 6 792 246 838
+rect 286 792 298 838
+rect 314 792 326 838
+rect 342 792 354 838
+rect 370 792 382 838
+rect 1350 792 1362 838
+rect 1406 792 1418 838
+rect 2134 814 2146 838
+rect 1434 792 1446 795
+rect 2134 802 2174 814
+rect 1462 792 1474 795
+rect 1574 791 1586 795
+rect 2022 792 2034 795
+rect 2106 791 2118 795
+rect 2162 792 2174 802
+rect 2246 792 2258 838
+rect 2302 792 2314 838
+rect 2358 791 2370 838
+rect 3198 814 3210 838
+rect 2414 802 2594 814
+rect 2414 792 2426 802
+rect 2582 791 2594 802
+rect 3058 802 3154 814
+rect 3198 802 3294 814
+rect 3058 792 3070 802
+rect 3142 791 3154 802
+rect 3282 792 3294 802
+rect 3310 792 3322 795
+rect 3366 792 3378 838
+rect 3422 790 3434 795
+rect 3450 792 3462 814
+rect 3478 792 3490 795
+rect 3534 792 3546 838
+rect 3562 792 3574 795
+rect 4094 791 4106 795
+rect 4178 792 4190 838
+rect 4206 792 4218 795
+rect 4738 791 4750 814
+rect 4822 792 4834 838
+rect 5550 813 5562 838
+rect 4906 792 4918 795
+rect 4990 792 5002 795
+rect 5550 792 5562 795
+rect 5634 792 5646 838
+rect 5662 792 5674 795
+rect 6194 792 6206 795
+rect 6318 792 6558 838
+rect 6 0 246 34
+rect 286 0 298 34
+rect 314 0 326 34
+rect 342 0 354 34
+rect 370 0 382 34
+rect 1350 0 1362 34
+rect 2022 31 2034 36
+rect 2358 34 2370 35
+rect 1406 0 1418 6
+rect 2134 0 2146 34
+rect 2246 0 2258 34
+rect 2302 0 2314 34
+rect 2386 24 2398 34
+rect 2470 24 2482 34
+rect 3030 31 3042 36
+rect 3114 31 3126 35
+rect 2386 12 2482 24
+rect 2358 0 2370 6
+rect 3198 0 3210 35
+rect 3366 0 3378 36
+rect 3534 0 3546 34
+rect 4094 31 4106 37
+rect 4178 0 4190 35
+rect 4822 0 4834 34
+rect 4878 24 4890 34
+rect 4934 24 4946 34
+rect 5102 24 5114 35
+rect 4934 12 5114 24
+rect 5550 0 5562 6
+rect 5634 0 5646 34
+rect 6318 0 6558 34
+use leftbuf  leftbuf_0
+timestamp 1544089383
+transform 1 0 6 0 1 34
+box 0 0 1316 758
+use mux2  mux2_0
+timestamp 1543848149
+transform 1 0 1322 0 1 34
+box 0 0 168 758
+use scandtype  scandtype_0
+timestamp 1543772215
+transform 1 0 1490 0 1 34
+box 0 0 588 758
+use or2  or2_0
+timestamp 1543772645
+transform 1 0 2078 0 1 34
+box 0 0 140 758
+use rowcrosser  rowcrosser_0
+timestamp 1543772543
+transform 1 0 2218 0 1 34
+box 0 0 56 758
+use mux2  mux2_1
+timestamp 1543848149
+transform 1 0 2274 0 1 34
+box 0 0 168 758
+use tielow  tielow_0
+timestamp 1543772592
+transform 1 0 2442 0 1 34
+box 0 0 56 758
+use scandtype  scandtype_1
+timestamp 1543772215
+transform 1 0 2498 0 1 34
+box 0 0 588 758
+use fulladder  fulladder_0
+timestamp 1543772130
+transform 1 0 3086 0 1 34
+box 0 0 252 758
+use mux2  mux2_4
+timestamp 1543848149
+transform 1 0 3338 0 1 34
+box 0 0 168 758
+use scanreg  scanreg_2
+timestamp 1543772271
+transform 1 0 3506 0 1 34
+box 0 0 644 758
+use scanreg  scanreg_3
+timestamp 1543772271
+transform 1 0 4150 0 1 34
+box 0 0 644 758
+use mux2  mux2_5
+timestamp 1543848149
+transform 1 0 4794 0 1 34
+box 0 0 168 758
+use tielow  tielow_1
+timestamp 1543772592
+transform 1 0 4962 0 1 34
+box 0 0 56 758
+use scandtype  scandtype_2
+timestamp 1543772215
+transform 1 0 5018 0 1 34
+box 0 0 588 758
+use scanreg  scanreg_5
+timestamp 1543772271
+transform 1 0 5606 0 1 34
+box 0 0 644 758
+use rightend  rightend_0
+timestamp 1544089828
+transform 1 0 6250 0 1 34
+box 0 0 308 758
+<< labels >>
+rlabel metal1 0 795 0 805 3 Operand2
+rlabel metal1 0 822 0 832 4 Operand1
+rlabel metal2 6 838 246 838 5 Vdd!
+rlabel metal2 286 838 298 838 5 SDO
+rlabel metal2 314 838 326 838 5 Test
+rlabel metal2 342 838 354 838 5 Clock
+rlabel metal2 370 838 382 838 5 nReset
+rlabel metal2 1350 838 1362 838 5 Load
+rlabel metal2 1350 0 1362 0 1 Load
+rlabel metal2 286 0 298 0 1 SDI
+rlabel metal2 314 0 326 0 1 Test
+rlabel metal2 342 0 354 0 1 Clock
+rlabel metal2 370 0 382 0 1 nReset
+rlabel metal2 6 0 246 0 1 Vdd!
+rlabel metal2 1406 838 1418 838 5 SHRinDH
+rlabel metal2 2134 0 2146 0 1 nZIn
+rlabel metal2 2134 838 2146 838 5 nZOut
+rlabel metal2 2358 0 2370 0 1 SHRoutDL
+rlabel metal2 2358 838 2370 838 5 SHRinDL
+rlabel metal2 2302 0 2314 0 1 Load
+rlabel metal2 2302 838 2314 838 5 Load
+rlabel metal2 2246 838 2258 838 5 DH<0>Out
+rlabel metal2 2246 0 2258 0 1 DH<0>In
+rlabel metal2 3366 838 3378 838 5 Load
+rlabel metal2 3534 838 3546 838 5 LoadAcc
+rlabel metal2 4178 838 4190 838 1 LoadResult
+rlabel metal2 4822 838 4834 838 5 Load
+rlabel metal2 4178 0 4190 0 1 LoadResult
+rlabel metal2 3534 0 3546 0 1 LoadAcc
+rlabel metal2 3366 0 3378 0 1 Load
+rlabel metal2 4822 0 4834 0 1 Load
+rlabel metal2 3198 0 3210 0 1 nBorrowIn
+rlabel metal2 3198 838 3210 838 5 nBorrowOut
+rlabel metal1 6564 800 6564 810 7 Quotient
+rlabel metal1 6564 822 6564 832 7 Remainder
+rlabel metal2 5634 838 5646 838 1 LoadResult
+rlabel metal2 6318 838 6558 838 5 GND!
+rlabel metal2 6318 0 6558 0 1 GND!
+rlabel metal2 5634 0 5646 0 1 LoadResult
+rlabel metal2 1406 0 1418 0 1 SHRoutDH
+rlabel metal2 5550 0 5562 0 1 SHLinResult
+rlabel metal2 5550 838 5562 838 1 SHLoutResult
+rlabel metal1 4119 804 4119 804 1 ACC
+<< end >>

@@ -1,0 +1,216 @@
+magic
+tech c35b4
+timestamp 1546812438
+<< metal1 >>
+rect 4195 6734 5629 6744
+rect 1365 6711 2300 6721
+rect 2318 6711 3363 6721
+rect 3381 6707 4820 6717
+rect -1 6688 0 6698
+rect 6564 6688 6565 6698
+rect -1 6661 0 6671
+rect 2037 6661 2121 6679
+rect 2261 6661 2355 6679
+rect 5565 6661 5658 6679
+rect 6564 6666 6565 6676
+rect -1 5850 0 5860
+rect 6564 5850 6565 5860
+rect -1 5823 0 5833
+rect 2038 5823 2102 5841
+rect 5565 5823 5658 5841
+rect 6564 5828 6565 5838
+rect -1 5012 0 5022
+rect 6564 5012 6565 5022
+rect -1 4985 0 4995
+rect 2038 4985 2102 5003
+rect 5565 4985 5658 5003
+rect 6564 4990 6565 5000
+rect -1 4174 0 4184
+rect 6564 4174 6565 4184
+rect -1 4147 0 4157
+rect 2038 4147 2102 4165
+rect 5565 4147 5658 4165
+rect 6564 4152 6565 4162
+rect -1 3336 0 3346
+rect 6564 3336 6565 3346
+rect -1 3309 0 3319
+rect 2038 3309 2102 3327
+rect 5565 3309 5658 3327
+rect 6564 3314 6565 3324
+rect -1 2498 0 2508
+rect 6564 2498 6565 2508
+rect -1 2471 0 2481
+rect 2038 2471 2102 2489
+rect 5565 2471 5658 2489
+rect 6564 2476 6565 2486
+rect -1 1660 0 1670
+rect 6564 1660 6565 1670
+rect -1 1633 0 1643
+rect 2038 1633 2102 1651
+rect 5565 1633 5658 1651
+rect 6564 1638 6565 1648
+rect -1 822 0 832
+rect 6564 822 6565 832
+rect -1 795 0 805
+rect 2038 795 2102 813
+rect 5565 795 5658 813
+rect 6564 800 6565 810
+rect 2019 13 2243 24
+<< m2contact >>
+rect 4174 6726 4195 6744
+rect 5629 6726 5647 6744
+rect 1347 6707 1365 6725
+rect 2300 6707 2318 6725
+rect 3363 6707 3381 6725
+rect 4820 6707 4838 6725
+rect 2243 6661 2261 6679
+rect 2355 6661 2373 6679
+rect 2243 13 2261 31
+<< metal2 >>
+rect 6 6704 247 6750
+rect 286 6704 298 6750
+rect 314 6704 326 6750
+rect 342 6704 354 6750
+rect 370 6704 382 6750
+rect 1350 6725 1362 6750
+rect 1350 6704 1362 6707
+rect 1406 6704 1418 6750
+rect 2134 6703 2146 6750
+rect 2302 6704 2314 6707
+rect 3198 6704 3210 6750
+rect 3366 6704 3378 6707
+rect 3534 6704 3546 6750
+rect 4178 6744 4190 6750
+rect 4178 6704 4190 6726
+rect 4822 6704 4834 6707
+rect 5634 6704 5646 6726
+rect 6318 6704 6558 6750
+rect 3030 6598 3042 6658
+rect 3030 5760 3042 5820
+rect 3030 4922 3042 4982
+rect 3030 4084 3042 4144
+rect 3030 3246 3042 3306
+rect 3030 2408 3042 2468
+rect 3030 1570 3042 1630
+rect 3030 732 3042 792
+rect 6486 0 6558 1
+rect 6 -6 246 0
+rect 286 -6 298 0
+rect 314 -6 326 0
+rect 342 -6 354 0
+rect 370 -6 382 0
+rect 2134 -6 2146 0
+rect 3198 -6 3210 0
+rect 5550 -6 5562 0
+rect 6318 -6 6558 0
+use bitslice  bitslice_7
+timestamp 1546809872
+transform 1 0 0 0 1 5866
+box 0 0 6564 838
+use bitslice  bitslice_6
+timestamp 1546809872
+transform 1 0 0 0 1 5028
+box 0 0 6564 838
+use bitslice  bitslice_5
+timestamp 1546809872
+transform 1 0 0 0 1 4190
+box 0 0 6564 838
+use bitslice  bitslice_4
+timestamp 1546809872
+transform 1 0 0 0 1 3352
+box 0 0 6564 838
+use bitslice  bitslice_3
+timestamp 1546809872
+transform 1 0 0 0 1 2514
+box 0 0 6564 838
+use bitslice  bitslice_2
+timestamp 1546809872
+transform 1 0 0 0 1 1676
+box 0 0 6564 838
+use bitslice  bitslice_1
+timestamp 1546809872
+transform 1 0 0 0 1 838
+box 0 0 6564 838
+use bitslice  bitslice_0
+timestamp 1546809872
+transform 1 0 0 0 1 0
+box 0 0 6564 838
+<< labels >>
+rlabel metal2 6 -6 246 -6 1 Vdd!
+rlabel metal2 370 -6 382 -6 1 nReset
+rlabel metal2 342 -6 354 -6 1 Clock
+rlabel metal2 314 -6 326 -6 1 Test
+rlabel metal2 286 -6 298 -6 1 SDI
+rlabel metal2 1350 6750 1362 6750 5 Load
+rlabel metal2 6 6750 247 6750 5 Vdd!
+rlabel metal2 370 6750 382 6750 5 nReset
+rlabel metal2 342 6750 354 6750 5 Clock
+rlabel metal2 314 6750 326 6750 5 Test
+rlabel metal2 286 6750 298 6750 5 SDO
+rlabel metal2 1406 6750 1418 6750 5 ShiftInDH
+rlabel metal1 -1 795 -1 805 3 Operand2<0>
+rlabel metal1 -1 822 -1 832 3 Operand1<0>
+rlabel metal1 -1 1660 -1 1670 3 Operand1<1>
+rlabel metal1 -1 1633 -1 1643 3 Operand2<1>
+rlabel metal1 -1 2471 -1 2481 3 Operand2<2>
+rlabel metal1 -1 2498 -1 2508 3 Operand1<2>
+rlabel metal1 -1 3309 -1 3319 3 Operand2<3>
+rlabel metal1 -1 3336 -1 3346 3 Operand1<3>
+rlabel metal1 -1 4147 -1 4157 3 Operand2<4>
+rlabel metal1 -1 4174 -1 4184 3 Operand1<4>
+rlabel metal1 -1 5012 -1 5022 3 Operand1<5>
+rlabel metal1 -1 4985 -1 4995 3 Operand2<5>
+rlabel metal1 -1 5823 -1 5833 3 Operand2<6>
+rlabel metal1 -1 5850 -1 5860 3 Operand1<6>
+rlabel metal1 -1 6661 -1 6671 3 Operand2<7>
+rlabel metal1 -1 6688 -1 6698 3 Operand1<7>
+rlabel metal2 6318 6750 6558 6750 5 GND!
+rlabel metal1 6565 6688 6565 6698 7 Remainder<7>
+rlabel metal1 6565 6666 6565 6676 7 Quotient<7>
+rlabel metal2 2134 6750 2146 6750 5 nZ
+rlabel metal2 3198 6750 3210 6750 5 nBorrow
+rlabel metal2 3534 6750 3546 6750 5 LoadAcc
+rlabel metal2 4178 6750 4190 6750 5 LoadResult
+rlabel metal2 2134 -6 2146 -6 1 nZIn
+rlabel metal2 3198 -6 3210 -6 1 nBorrowIn
+rlabel metal2 5550 -6 5562 -6 1 ShiftIn
+rlabel metal2 6318 -6 6558 -6 1 GND!
+rlabel metal1 6565 4152 6565 4162 7 Quotient<4>
+rlabel metal1 6565 822 6565 832 7 Remainder<0>
+rlabel metal1 6565 800 6565 810 7 Quotient<0>
+rlabel metal1 6565 1638 6565 1648 7 Quotient<1>
+rlabel metal1 6565 1660 6565 1670 7 Remainder<1>
+rlabel metal1 6565 2476 6565 2486 7 Quotient<2>
+rlabel metal1 6565 2498 6565 2508 7 Remainder<2>
+rlabel metal1 6565 3336 6565 3346 7 Remainder<3>
+rlabel metal1 6565 3314 6565 3324 7 Quotient<3>
+rlabel metal1 6565 4174 6565 4184 7 Remainder<4>
+rlabel metal1 6565 4990 6565 5000 7 Quotient<5>
+rlabel metal1 6565 5012 6565 5022 7 Remainder<5>
+rlabel metal1 6565 5850 6565 5860 7 Remainder<6>
+rlabel metal1 6565 5828 6565 5838 7 Quotient<6>
+rlabel metal1 5572 6670 5572 6670 1 Result_7
+rlabel metal1 5574 5832 5574 5832 1 Result_6
+rlabel metal1 5574 4994 5574 4994 1 Result_5
+rlabel metal1 5575 4156 5575 4156 1 Result_4
+rlabel metal1 5579 3319 5579 3319 1 Result_3
+rlabel metal1 5578 2481 5578 2481 1 Result_2
+rlabel metal1 5580 1641 5580 1641 1 Result_1
+rlabel metal1 5577 802 5577 802 1 Result_0
+rlabel metal1 2050 6670 2050 6670 1 DivisorH_7
+rlabel metal1 2047 5832 2049 5832 1 DivisorH_6
+rlabel metal1 2051 4991 2053 4991 1 DivisorH_5
+rlabel metal1 2047 4155 2048 4156 1 DivisorH_4
+rlabel metal1 2047 3317 2047 3317 1 DivisorH_3
+rlabel metal1 2046 2480 2046 2480 1 DivisorH_2
+rlabel metal1 2044 1642 2044 1642 1 DivisorH_1
+rlabel metal1 2049 806 2049 806 1 DivisorH_0
+rlabel metal2 3037 6658 3037 6658 1 DivisorL_7
+rlabel metal2 3036 792 3036 792 1 DivisorL_0
+rlabel metal2 3036 1630 3036 1630 1 DivisorL_1
+rlabel metal2 3036 2468 3036 2468 1 DivisorL_2
+rlabel metal2 3036 3306 3036 3306 1 DivisorL_3
+rlabel metal2 3036 4144 3036 4144 1 DivisorL_4
+rlabel metal2 3036 4982 3036 4982 1 DivisorL_5
+rlabel metal2 3036 5820 3036 5820 1 DivisorL_6
+<< end >>

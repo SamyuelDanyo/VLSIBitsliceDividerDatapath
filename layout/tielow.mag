@@ -1,0 +1,47 @@
+magic
+tech c35b4
+timestamp 1543772592
+<< nwell >>
+rect 0 334 56 752
+<< psubstratetap >>
+rect 6 10 50 24
+<< nsubstratetap >>
+rect 6 734 50 749
+<< metal1 >>
+rect 0 749 56 752
+rect 0 734 6 749
+rect 50 734 56 749
+rect 0 728 56 734
+rect 0 370 56 380
+rect 0 351 56 361
+rect 0 307 56 317
+rect 0 288 56 298
+rect 0 263 56 273
+rect 25 30 43 56
+rect 0 24 56 30
+rect 0 10 6 24
+rect 50 10 56 24
+rect 0 6 56 10
+<< m2contact >>
+rect 25 56 43 74
+<< metal2 >>
+rect 28 74 40 758
+rect 28 0 40 56
+<< labels >>
+rlabel metal1 0 6 0 30 3 GND!
+rlabel metal1 56 6 56 30 7 GND!
+rlabel metal2 28 0 40 0 1 GND!
+rlabel metal1 0 728 0 752 3 Vdd!
+rlabel metal1 56 728 56 752 7 Vdd!
+rlabel metal2 28 758 40 758 5 GND!
+rlabel metal1 56 263 56 273 7 nReset
+rlabel metal1 0 263 0 273 3 nReset
+rlabel metal1 56 288 56 298 7 Clock
+rlabel metal1 56 307 56 317 7 Test
+rlabel metal1 0 307 0 317 3 Test
+rlabel metal1 0 288 0 298 3 Clock
+rlabel metal1 0 351 0 361 3 Scan
+rlabel metal1 56 351 56 361 7 Scan
+rlabel metal1 56 370 56 380 7 ScanReturn
+rlabel metal1 0 370 0 380 3 ScanReturn
+<< end >>

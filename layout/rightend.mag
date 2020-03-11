@@ -1,0 +1,69 @@
+magic
+tech c35b4
+timestamp 1544089828
+<< pimplant >>
+rect 0 334 56 727
+<< nimplant >>
+rect 0 31 56 281
+<< nwell >>
+rect 0 334 61 752
+<< polysilicon >>
+rect 27 719 34 727
+rect 27 361 34 663
+rect 32 345 34 361
+rect 27 69 34 345
+rect 27 31 34 39
+<< ndiffusion >>
+rect 24 39 27 69
+rect 34 39 37 69
+<< pdiffusion >>
+rect 24 663 27 719
+rect 34 663 37 719
+<< ntransistor >>
+rect 27 39 34 69
+<< ptransistor >>
+rect 27 663 34 719
+<< polycontact >>
+rect 16 345 32 361
+rect 79 71 308 708
+<< ndiffcontact >>
+rect 10 39 24 69
+rect 37 39 51 69
+<< pdiffcontact >>
+rect 10 663 24 719
+rect 37 663 51 719
+<< psubstratetap >>
+rect 6 10 58 24
+<< nsubstratetap >>
+rect 6 734 56 748
+<< metal1 >>
+rect 0 748 61 752
+rect 0 734 6 748
+rect 56 734 61 748
+rect 0 728 61 734
+rect 10 719 24 728
+rect 41 380 51 663
+rect 0 370 51 380
+rect 0 351 16 361
+rect 41 69 51 370
+rect 10 30 24 39
+rect 0 24 68 30
+rect 0 10 6 24
+rect 58 10 68 24
+rect 0 6 68 10
+<< m2contact >>
+rect 79 71 308 708
+rect 68 6 308 30
+<< metal2 >>
+rect 68 708 308 758
+rect 68 71 79 708
+rect 68 30 308 71
+rect 68 0 308 6
+<< labels >>
+rlabel metal1 0 6 0 30 3 GND!
+rlabel metal1 0 728 0 752 3 Vdd!
+rlabel metal1 0 370 0 380 3 nScan
+rlabel metal1 0 351 0 361 3 Scan
+rlabel metal2 68 758 308 758 5 GND!
+rlabel metal2 68 0 308 0 1 GND!
+<< end >>

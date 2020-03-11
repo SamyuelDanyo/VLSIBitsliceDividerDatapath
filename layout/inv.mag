@@ -1,0 +1,87 @@
+magic
+tech c35b4
+timestamp 1543772090
+<< pimplant >>
+rect 0 334 84 727
+<< nimplant >>
+rect 0 31 84 281
+<< nwell >>
+rect 0 334 84 752
+<< polysilicon >>
+rect 23 719 30 727
+rect 23 94 30 663
+rect 23 69 30 78
+rect 23 31 30 39
+<< ndiffusion >>
+rect 20 39 23 69
+rect 30 39 33 69
+<< pdiffusion >>
+rect 20 663 23 719
+rect 30 663 33 719
+<< ntransistor >>
+rect 23 39 30 69
+<< ptransistor >>
+rect 23 663 30 719
+<< polycontact >>
+rect 23 78 39 94
+<< ndiffcontact >>
+rect 6 39 20 69
+rect 33 39 47 69
+<< pdiffcontact >>
+rect 6 663 20 719
+rect 33 663 47 719
+<< psubstratetap >>
+rect 6 10 78 24
+<< nsubstratetap >>
+rect 6 734 78 748
+<< metal1 >>
+rect 0 748 84 752
+rect 0 734 6 748
+rect 78 734 84 748
+rect 0 728 84 734
+rect 6 719 20 728
+rect 47 663 50 719
+rect 0 370 84 380
+rect 0 351 84 361
+rect 0 307 84 317
+rect 0 288 84 298
+rect 0 263 84 273
+rect 47 39 50 69
+rect 6 30 20 39
+rect 0 24 84 30
+rect 0 10 6 24
+rect 78 10 84 24
+rect 0 6 84 10
+<< m2contact >>
+rect 50 663 68 719
+rect 22 94 40 96
+rect 22 78 23 94
+rect 23 78 39 94
+rect 39 78 40 94
+rect 50 39 68 69
+<< metal2 >>
+rect 28 96 40 758
+rect 56 719 68 758
+rect 28 0 40 78
+rect 56 69 68 663
+rect 56 0 68 39
+<< labels >>
+rlabel metal2 28 0 40 0 1 A
+rlabel metal2 56 0 68 0 1 Y
+rlabel metal1 0 6 0 30 3 GND!
+rlabel metal1 84 6 84 30 7 GND!
+rlabel metal1 0 728 0 752 3 Vdd!
+rlabel metal2 56 758 68 758 5 Y
+rlabel metal2 28 758 40 758 5 A
+rlabel metal1 84 728 84 752 7 Vdd!
+rlabel metal1 0 263 0 273 3 nReset
+rlabel metal1 0 288 0 298 3 Clock
+rlabel metal1 0 307 0 317 3 Test
+rlabel metal1 0 351 0 361 3 Scan
+rlabel metal1 0 370 0 380 3 ScanReturn
+rlabel metal1 84 263 84 273 7 nReset
+rlabel metal1 84 288 84 298 7 Clock
+rlabel metal1 84 307 84 317 7 Test
+rlabel metal1 84 351 84 361 7 Scan
+rlabel metal1 84 370 84 380 7 ScanReturn
+<< end >>
